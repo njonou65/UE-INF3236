@@ -1,5 +1,5 @@
 # UE-INF3236
-Realisation de tous les TP , TPE et Projets de l'unite d'enseignement INF3236 - Machine Learning
+Réalisation  de tous les TP , TPE et Projets de l'unité d'enseignement INF3236 - Machine Learning
 
 groupe 7
   - NJONOU KOUAYA GABY 19M2347
